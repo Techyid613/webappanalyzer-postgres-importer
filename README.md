@@ -1,4 +1,4 @@
-# Webappanalyzer to PostgreSQL
+# 🚨 THIS PROJECT WAS VIBE CODED 🚨
 
 Importer for the upstream [Webappanalyzer repository](https://github.com/enthec/webappanalyzer).
 
