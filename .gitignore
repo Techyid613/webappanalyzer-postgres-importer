@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Generated archives, backups, and databases
+*.sql
+*.dump
+*.pgdump
+*.backup
+*.bak
+*.db
+*.sqlite
+*.sqlite3
+*.tar
+*.tar.gz
+*.zip
+
+# Local configuration, credentials, and certificates
+.env
+.env.*
+!.env.example
+.pgpass
+.netrc
+.aws/
+.ssh/
+id_rsa*
+id_ed25519*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary output and logs
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
