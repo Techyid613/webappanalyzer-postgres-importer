@@ -1,5 +1,7 @@
 # Webappanalyzer to PostgreSQL
 
+Importer for the upstream [Webappanalyzer repository](https://github.com/enthec/webappanalyzer).
+
 A standalone, standard-library Python importer that archives a local Webappanalyzer checkout and loads its complete local contents into PostgreSQL. The SQL archive embeds file and image bytes, so restoring it does not require the original checkout or this importer.
 
 ## Requirements
